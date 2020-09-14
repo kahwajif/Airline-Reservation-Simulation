@@ -4,5 +4,5 @@ Allows users to reserve one-way or two-way flights. Users are asked to select a 
 # Preview
 ![](Menu.png)
 ![](Menu1.png)
-![](menu2.png)
+![](menu2.PNG)
 ![](menu3.png)
