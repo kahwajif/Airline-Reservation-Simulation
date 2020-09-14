@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/crest.png</file>
+        <file>img/From.png</file>
+        <file>img/Airplane.png</file>
+        <file>img/Calendar.png</file>
+        <file>img/Plane.png</file>
+        <file>img/S1.png</file>
+        <file>img/S2.png</file>
+        <file>img/seats.png</file>
+    </qresource>
+</RCC>
